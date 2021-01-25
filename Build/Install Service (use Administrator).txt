@@ -1,0 +1,3 @@
+REM convert this to a .bat file
+start /d"<PATH TO InstallUtil.exe DIRECTORY" /b InstallUtil.exe "PATH TO <BalancePreserver.exe>"
+pause
